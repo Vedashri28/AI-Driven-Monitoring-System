@@ -118,4 +118,6 @@ Computer Science Engineering Student
 This project demonstrates the use of AI and Computer Vision in real-time safety applications such as driver monitoring systems.
 
 
+![Main UI]./https://github.com/Vedashri28/AI-Driven-Monitoring-System/blob/main/Screenshot%202026-04-07%20013756.png
+
 
